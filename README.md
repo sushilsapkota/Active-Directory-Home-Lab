@@ -172,3 +172,4 @@ Get-GPO -All | Select-Object DisplayName, GpoStatus | Format-Table -AutoSize
 
 ## 👤 Author
 **Sushil Sapkota**
+[LinkedIn](https://linkedin.com/in/sushilsapkota1)
